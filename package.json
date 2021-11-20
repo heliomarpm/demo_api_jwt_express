@@ -1,0 +1,28 @@
+{
+  "name": "demo_api_jwt_express",
+  "version": "1.0.0",
+  "description": "Dem de Api Rest Node com JWT+Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "api_node_jwt"
+  },
+  "keywords": [
+    "api",
+    "node",
+    "jwt",
+    "rest",
+    "express",
+    "jsonwebtoken"
+  ],
+  "author": "Heliomar Marques",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
